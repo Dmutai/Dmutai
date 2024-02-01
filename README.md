@@ -1,3 +1,7 @@
+## Dennis Mutai 
+
+I am a GIS and Remote sensing Specialist with [Impact Initiatives](https://www.impact-initiatives.org/), Geneva, Switzerland.  Access the [REACH](https://www.reach-initiative.org/what-we-do/) page to download data and products. 
+
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
